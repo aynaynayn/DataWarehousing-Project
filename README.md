@@ -1,3 +1,11 @@
+Tech stack:
+Programming Language: Python 3.11
+Core Libraries/Dependences: Python Reddit API Wrapper, textblob, pandas, rapidfuzz, tqdm
+External Platforms and tools: Reddit API, command prompt or visual studio code, Power BI
+
+Offline Data Mining Pipeline: 
+FETCH --> CLEAN --> VERIFY --> EXPORT
+
 LIBRARIES NEEDED TO INSTALL:
 
 praw (Python Reddit API Wrapper)
