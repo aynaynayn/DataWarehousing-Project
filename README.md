@@ -88,3 +88,4 @@ run in cmd:
 -Expected inputs are reddit_booksuggestions_cleaned.json & books.csv
 -output file name: verified_books_offline.csv & verified_books_offline.json
 
+This project contains the source codes, outputs of each source, documentation in pdf and word format, and the diagrams from Power BI. 
